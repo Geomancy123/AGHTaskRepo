@@ -1,0 +1,12 @@
+I have used Unity a lot over the past year and a half, but its mostly co-op development with 2 other coders (and 3 artists), so I don't have a lot of solo work to show.
+
+The capture the flag was an assignment from November last year. The goal was to create a simple capture the flag game, that used an ai to control the enemy team.
+It was a bit of a rushed project (~24 hours), and I am not the most proud of it, but it is the only solo unity project I have worked on over the past year. 
+
+
+
+
+The "Loose scripts" are from one of the games my team made a couple of months ago. 
+I'm not sure if I can share the entire source code, so I decided to share just some scripts I specifically made for it.
+
+Not sure if the loose scripts are helpful, but have them anyway:)
